@@ -1,4 +1,3 @@
---G5_23BIA50011_Anuj_Yadav_Session1
 CREATE TABLE Employee (
     EmpID SERIAL PRIMARY KEY,
     FirstName VARCHAR(50),
